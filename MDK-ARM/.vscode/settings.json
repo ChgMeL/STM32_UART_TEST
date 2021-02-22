@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "logic_uart_hal.h": "c",
+        "stm32f0xx_hal.h": "c",
+        "stdlib.h": "c"
+    }
+}
